@@ -1,0 +1,28 @@
+{
+    "utilizadores":{
+        "count":"3",
+        "users":[
+            {
+                "username":"JoãoSilva34",
+                "password":"joao123",
+                "name": "João",
+                "email": "joaos15@gmail.com",
+                "link": "/users/joãosilva34"
+            },
+            {
+                "username":"Manuel1990",
+                "password":"123456",
+                "name": "Manuel",
+                "email": "manu1990@gmail.com",
+                "link": "/users/manuel1990"
+            },
+            {
+                "username":"...",
+                "password":"...",
+                "name": "...",
+                "email": "...",
+                "link": "/users/..."
+            }
+        ]
+    }
+}

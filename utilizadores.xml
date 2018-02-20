@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<users>
+<count></count>
+<user>
+        <username>JoãoSilva34</username>
+        <password>joao123</password>
+        <name>João</name>
+        <email>joaos15@gmail.com</email>
+        <link>/users/joaosilva34</link>
+</user>
+<user>
+        <username>Manuel1990</username>
+        <password>123456</password>
+        <name>Manuel</name>
+        <email>manu1990@gmail.com</email>
+        <link>/users/manuel1990</link>
+</user>
+<user>
+        <username>...</username>
+        <password>...</password>
+        <name>...</name>
+        <email>...</email>
+        <link>...</link>
+</user>
+
+
+</users>

@@ -1,0 +1,30 @@
+{
+    "snippet": {
+        "idSnippet": "1",
+        "nomeSnippet": "[JAVASCRIPT] Create Random Integers",
+        "autor": 
+            {
+                "username": "Manuel1990",
+                "nomeAutor": "Manuel"
+            }
+        
+        "linguagem": 
+            {
+                "nomeLinguagem": "JAVASCRIPT",
+                "extensao": ".js"
+            },
+        "tags": [
+            "JAVASCRIPT",
+            "js",
+            "Random",
+            "Math"
+        ],
+        "pontuacao": "4",
+        "snippet": 
+            {
+                "descricao": "JavaScript Random Integers",
+                "conteudo": "Math.floor(Math.random() * 10);"
+            }
+        
+    }
+}

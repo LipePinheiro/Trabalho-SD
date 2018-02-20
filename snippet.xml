@@ -1,0 +1,25 @@
+	<snippet>
+		<snippetInfo>
+			<idSnippet>1</idSnippet>
+			<nomeSnippet>[JAVASCRIPT] Create Random Integers</nomeSnippet>
+			<autor>
+				<idAutor>001</idAutor>
+				<nomeAutor>Manuel</nomeAutor>
+			</autor>
+			<linguagem>
+				<nome_linguagem>JAVASCRIPT</nomeLinguagem>
+				<extensao>.js</nomeLinguagem>
+			</linguagem>
+			<tags>
+			<tag>JavaScript</tag>
+			<tag>js</tag>
+			<tag>Random</tag>
+			<tag>Math</tag>
+			</tags>
+			<pontuacao>4</pontuacao>
+		</snippetInfo>
+		<snippetConteudo>
+			<descricao>JavaScript Random Integers</descricao>
+			<conteudo>Math.floor(Math.random() * 10);</conteudo>
+		</snippetConteudo>
+	</snippet>
